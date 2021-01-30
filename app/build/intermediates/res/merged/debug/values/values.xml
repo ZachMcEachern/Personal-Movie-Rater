@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_task">Add Task</string>
+    <string name="app_name">Movie Rater</string>
+    <string name="cancel">Cancel</string>
+    <string name="completed">Completed</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="task_name">Task</string>
+    <string name="task_name_hint">Name of the movie</string>
+    <string name="task_notes">Notes</string>
+    <string name="task_notes_hint">Notes</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+    </style>
+</resources>

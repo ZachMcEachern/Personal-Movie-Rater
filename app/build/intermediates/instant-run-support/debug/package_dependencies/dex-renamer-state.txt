@@ -1,0 +1,13 @@
+#Fri Nov 10 19:03:21 PST 2017
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+renamed.0=classes.dex
+base.3=C\:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_2fcccaade692e3a32fcac23a8629553e9a665a0e
+base.2=C\:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_cb7f77d856c3f13b95e828d1f5b44f1ff2b364fb
+base.1=C\:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\TabManager_02673abac5d37bb144a3d423b860dbde23e9fa58
+base.0=C\:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0bb48d91daacf11732c815be686270466b7b964d
+file.3=C\:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.1_2fcccaade692e3a32fcac23a8629553e9a665a0e\\classes.dex
+file.2=C\:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.1_cb7f77d856c3f13b95e828d1f5b44f1ff2b364fb\\classes.dex
+file.1=C\:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\TabManager_02673abac5d37bb144a3d423b860dbde23e9fa58\\classes.dex
+file.0=C\:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0bb48d91daacf11732c815be686270466b7b964d\\classes.dex

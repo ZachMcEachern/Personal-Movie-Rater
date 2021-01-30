@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zachm\.android\build-cache\03fbe60f4cb1ce52ca100491a4f7f9ca46e66479\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\murach\android\book_apps\ch14_TaskList\app\build\intermediates\pre-dexed\debug\classes_0bb48d91daacf11732c815be686270466b7b964d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\murach\android\book_apps\ch14_TaskList\app\libs\TabManager.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25b6223c3d4b5b4df1b9f0a35427cc82b0cc890a">
+        <dex dex="C:\murach\android\book_apps\ch14_TaskList\app\build\intermediates\pre-dexed\debug\TabManager_02673abac5d37bb144a3d423b860dbde23e9fa58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zachm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\murach\android\book_apps\ch14_TaskList\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_cb7f77d856c3f13b95e828d1f5b44f1ff2b364fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zachm\.android\build-cache\03fbe60f4cb1ce52ca100491a4f7f9ca46e66479\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\murach\android\book_apps\ch14_TaskList\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_2fcccaade692e3a32fcac23a8629553e9a665a0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zachm\Documents\College Classes\Fall 2017\CPSC 411\App4\ch14_TaskList\app\libs\TabManager.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25b6223c3d4b5b4df1b9f0a35427cc82b0cc890a">
+        <dex dex="C:\Users\zachm\Documents\College Classes\Fall 2017\CPSC 411\App4\ch14_TaskList\app\build\intermediates\pre-dexed\debug\TabManager_80fd2b5ac0ad894e690e4a69a8720ae635b4969f.jar" />
+    </item>
+
+</items>

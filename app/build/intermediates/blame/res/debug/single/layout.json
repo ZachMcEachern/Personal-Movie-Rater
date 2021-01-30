@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_task_list.xml",
+        "source": "C:\\murach\\android\\book_apps\\ch14_TaskList\\app\\src\\main\\res\\layout\\fragment_task_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachm\\Documents\\College Classes\\Fall 2017\\CPSC 411\\App4\\ch14_TaskList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_task_list.xml",
+        "source": "C:\\Users\\zachm\\Documents\\College Classes\\Fall 2017\\CPSC 411\\App4\\ch14_TaskList\\app\\src\\main\\res\\layout\\fragment_task_list.xml"
+    },
+    {
+        "merged": "C:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_list.xml",
+        "source": "C:\\murach\\android\\book_apps\\ch14_TaskList\\app\\src\\main\\res\\layout\\activity_task_list.xml"
+    },
+    {
+        "merged": "C:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_list.xml",
+        "source": "C:\\murach\\android\\book_apps\\ch14_TaskList\\app\\src\\main\\res\\layout\\spinner_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachm\\Documents\\College Classes\\Fall 2017\\CPSC 411\\App4\\ch14_TaskList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_list.xml",
+        "source": "C:\\Users\\zachm\\Documents\\College Classes\\Fall 2017\\CPSC 411\\App4\\ch14_TaskList\\app\\src\\main\\res\\layout\\activity_task_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachm\\Documents\\College Classes\\Fall 2017\\CPSC 411\\App4\\ch14_TaskList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_list.xml",
+        "source": "C:\\Users\\zachm\\Documents\\College Classes\\Fall 2017\\CPSC 411\\App4\\ch14_TaskList\\app\\src\\main\\res\\layout\\spinner_list.xml"
+    },
+    {
+        "merged": "C:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_task.xml",
+        "source": "C:\\murach\\android\\book_apps\\ch14_TaskList\\app\\src\\main\\res\\layout\\listview_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachm\\Documents\\College Classes\\Fall 2017\\CPSC 411\\App4\\ch14_TaskList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_edit.xml",
+        "source": "C:\\Users\\zachm\\Documents\\College Classes\\Fall 2017\\CPSC 411\\App4\\ch14_TaskList\\app\\src\\main\\res\\layout\\activity_add_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\zachm\\Documents\\College Classes\\Fall 2017\\CPSC 411\\App4\\ch14_TaskList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_task.xml",
+        "source": "C:\\Users\\zachm\\Documents\\College Classes\\Fall 2017\\CPSC 411\\App4\\ch14_TaskList\\app\\src\\main\\res\\layout\\listview_task.xml"
+    },
+    {
+        "merged": "C:\\murach\\android\\book_apps\\ch14_TaskList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_edit.xml",
+        "source": "C:\\murach\\android\\book_apps\\ch14_TaskList\\app\\src\\main\\res\\layout\\activity_add_edit.xml"
+    }
+]
